@@ -36,3 +36,5 @@
     www.anaconda.com/downloads
     >Add anaconda to path envt. variable
     >confirm the installation by searching for Anaconda Navigator
+    
+    You need to launch your .py script using the jupyter notebook launcher in Anaconda Navigator.
