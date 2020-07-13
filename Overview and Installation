@@ -1,0 +1,38 @@
+#Developed by Guido Van Rossum in 1991.
+
+#WHY CHOOSE PYTHON?
+#Advantages:
+  #quick to learn
+  #less code
+  #syntax easier to read
+  #utilized by every major tech company
+  #huge amount of additional open-source libraries
+  
+  #PYTHON focuses on optimizing developer time, rather than a computer's processing time.
+  DOCUMENTATION: docs.python.org/3
+  
+  So what can you do once you start using those outside libraries?
+    Automating simple tasks.
+    Search for files, edit them.
+    Scrape inform ation from a Web site.
+    Read and write Excel files.
+    Automate emails and text messages.
+    Fill out forms.
+    
+    In Data Science and Machine Learning:
+        Analyze large data files
+        create visualisations
+        create and run predictive algorithms
+        
+    Creating Websites:
+        use web frameworks such as Django and Flask to handle the backend of a website and user data.
+        create interactive dashboards for users 
+  
+#Software you can use:
+  #Jupyter Notebooks(for this you have to install Anaconda)
+    #Anaconda: This free distribution can be easily installed on to any major OS, Windows, MacOS, or Linux.
+    (There is also Miniconda, which is a smaller sized version of Anaconda)
+    
+    www.anaconda.com/downloads
+    >Add anaconda to path envt. variable
+    >confirm the installation by searching for Anaconda Navigator
