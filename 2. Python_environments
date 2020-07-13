@@ -1,0 +1,30 @@
+There are three main types of environments:
+1. Text editors
+2. Full IDEs
+3. Notebook Environments
+
+
+TEXT EDITORS
+  -general editors for any text file
+  -work with a variety of file types
+  -can be customized with plugins and add-ons
+  Most popular: Sublime Text and Atom
+  
+FULL INTEGRATED DEVELOPMENT ENVIRONMENTS
+  -development environments designed specifically for python
+  -only community editions are free
+  -lots of extra functionality
+  Most Popular: Pycharm and Spyder
+  
+NOTEBOOK ENVIRONMENTS
+   -see input and output next to each other
+   -support inline markdown notes, visualizations, videos and more.
+   -special file formats like .ipynb are supported
+   Most popular is jupyter notebook
+   
+   Notebooks use blocks of code that are referred to as cells
+   In notebooks, you can split up your code into cells and run all those in one single notebook.
+   You can see multiple inputs and multiple outputs in one single window
+   
+   
+   
