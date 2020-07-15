@@ -26,5 +26,9 @@ NOTEBOOK ENVIRONMENTS
    In notebooks, you can split up your code into cells and run all those in one single notebook.
    You can see multiple inputs and multiple outputs in one single window
    
+   Output is shown directly below the cell, therefore you can easily fix mistakes!
    
+   For hotkeys, click on help->hit keyboard shortcuts
+   
+   PLUS, .ipynb files do not open on clicking, you can only open them through jupyter noteook system.
    
