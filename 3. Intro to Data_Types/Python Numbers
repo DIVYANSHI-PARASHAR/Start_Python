@@ -1,0 +1,19 @@
+PYTHON NUMBERS
+
+1. Integers
+    keyword: int
+    eg: 3, 300, 200
+    (whole numbers)
+
+2. Floating point Numbers
+    keyword: float
+    eg: 3.4, 78.02, 109.0
+    (numbers with decimal point)
+    
+ OPERATORS
+ 
+ 1. MOD OPERATOR (%) :
+    eg: 7 % 4 = 3
+    
+ 2. POWER OPERATOR (**)
+    eg: 2 ** 3 = 8
