@@ -1,0 +1,32 @@
+# RULES FOR VARIABLE NAMES
+  
+    1. Names can not start with a number.
+    2. There can be no spaces in the name, use underscore(_) instead.
+    3. Can't use any of these symbols: + : ' ' , < > / ? | \ ( ) ! @ # $ % ^ * * ~ - 
+    4. It's considered best practice that names are lowercase. (leave option of UPPERCASE for global variables
+    5. Avoid using words that have special meaning in Python like 'list; and 'str'.
+    
+    
+# PYTHON FOR DYNAMIC TYPING
+    1. This means you can reassign variable to different data types.
+    
+    This makes Python very flexible in assigning data types, thus is different than other languages that are 'statically-typed'.
+    
+    # PROS OF DYNAMIC TYPING:
+        -very easy to work with
+        -faster development time
+    # CONS OF DYNAMIC TYPING:
+        -may result in bugs for unexpected data types
+        -you need to be aware of type()
+        TYPE FUNCTION:  type() tells the data type.
+        >>>type(1)
+        int
+        >>>type(2.3)
+        float
+        >>>type('Apple')
+        str
+        
+        
+    TIP: if by mistake you use a s[ecial keyword for variable assignment, then Restart the Kernel and run all cells again.
+    On restarting the Kernel, all variables are lost. That's why you have to run the cells again.
+    [Kernel--> Restart and clear all outputs.]
