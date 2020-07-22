@@ -1,0 +1,23 @@
+STRINGS
+(sequence of characters)
+
+Strings are ordered sequences, it means we can use indexing and slicing to grab sub-sections of the string.
+Therefore we know each character has a specific position to be in.
+
+INDEXING notation uses [] notation after the string(or variable assigned to tha string)
+Indexing allows you to grab a single character from the string.
+
+These actions us [] brackets and a number index to indicate positions of what you wish to grab.
+
+       Character: h  e  l  l  o
+       Index    : 0  1  2  3  4
+   Reverse Index: 0 -4 -3 -2 -1
+   
+   Why Reverse Index? : So maybe you wanted to grab the last letter of a string but you didn't actually know how long the string was.
+
+SLICING allows you to grab a subsection of multiple characters, a 'slice' of the string.
+       Syntax: [start: stop: step]
+       
+       start implies to numerical index for the slice start.
+       stop implies you to the index you will go up to (BUT NOT INCLUDE).
+       step implies to the size of jump you take.
