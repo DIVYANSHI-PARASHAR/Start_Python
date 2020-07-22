@@ -1,4 +1,4 @@
-STRINGS
+STRINGS                                      {FOR BASIC CODES, SCROLL DOWN}
 (sequence of characters)
 
 Strings are ordered sequences, it means we can use indexing and slicing to grab sub-sections of the string.
@@ -21,3 +21,57 @@ SLICING allows you to grab a subsection of multiple characters, a 'slice' of the
        start implies to numerical index for the slice start.
        stop implies you to the index you will go up to (BUT NOT INCLUDE).
        step implies to the size of jump you take.
+       
+       
+# THIS IS A COMMENT (STARTED WITH '#')
+
+EXAMPLES:
+
+>>>len('hello')
+5
+>>>len('I am')
+4
+
+>>>mystring = 'Hello World'
+>>>mystring
+'Hello World'
+>>>mystring[0]
+'H'
+>>>mystring[8]
+'r'
+>>>mystring[-2]
+'l'
+>>>mystring[-3]
+'r'
+>>>mystring[-1]
+'d'
+
+>>>mystring = 'abcdefghijk'
+>>>mystring
+'abcdefghijk'
+>>>mystring[2]
+'c'
+>>>mystring[2:]
+'cdefghijk'
+>>>mystring[:3]
+'abc'
+>>>mystring[3:6]
+'def'
+>>>mystring[1:3]
+'bc'
+
+>>>mystring
+'abcdefghijk'
+>>>mystring[::]
+'abcdefghijk'
+
+>>>mystring[::2]
+'acegik'
+>>>mystring[::3]
+'adgj'
+
+>>>mystring[2:7:2]
+'ceg'
+
+>>>mystring[::-1]        #REVERSE A STRING!!!
+'kjihgfedcba'
