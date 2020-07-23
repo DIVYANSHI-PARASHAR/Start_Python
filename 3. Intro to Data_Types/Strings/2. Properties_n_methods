@@ -1,0 +1,39 @@
+STRING PROPERTIES AND METHODS
+
+	IMMUTABILITY: It means we can't change any part of data once declared.
+	
+	eg:- >>>name = 'Sam'
+	     >>>name[0] = 'P'
+		 ----------Tracebackerror-------------
+		 
+		 >>>name[1:] = 'am'
+		 >>>last_letters = name[1:]
+		 >>>last_letters
+		 'am'
+		 >>>'P' + last_letters           # STRING CONCATENATION
+		 'Pam'
+		 
+STRING CONCATENATION: It allows us to quickly put strings together.
+		
+		>>>x = 'Hello World '
+		>>>x + "it is beautiful outside!!!"
+		'Hello World it is beautiful outside!!!'
+		
+		
+There is also STRING MULTIPLICATION you can do-----to do multiple string detonations at once.
+		
+		>>>letter = 'z'
+		>>>letter * 10
+		'zzzzzzzzzz'
+		
+		Also,
+		
+		>>>2 + 3
+		5
+		
+		>>>'2' + '3'
+		23                 # con of dynamic typing; if usere enters strins you may get 23 instead of 5
+		
+		 
+		   
+		
