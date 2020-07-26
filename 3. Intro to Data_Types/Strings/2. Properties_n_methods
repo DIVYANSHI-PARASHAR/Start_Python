@@ -34,6 +34,10 @@ There is also STRING MULTIPLICATION you can do-----to do multiple string detonat
 		>>>'2' + '3'
 		23                 # con of dynamic typing; if usere enters strins you may get 23 instead of 5
 		
+		
+		
+Objects in python usually have bulitin methods and these methods themselves are essentially functions that are inside the object. 
+We can also create our own functions in our own methods.		
 		 
 		   
 		
