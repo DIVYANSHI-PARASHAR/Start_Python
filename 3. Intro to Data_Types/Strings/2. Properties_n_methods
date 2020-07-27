@@ -39,5 +39,30 @@ There is also STRING MULTIPLICATION you can do-----to do multiple string detonat
 Objects in python usually have bulitin methods and these methods themselves are essentially functions that are inside the object. 
 We can also create our own functions in our own methods.		
 		 
-		   
+		>>>x = 'Hello World'
+		>>>x
+		'Hello World'
+		>>>x.upper
+		<function str.upper>
+		>>>x.upper()
+		'HELLO WORLD'
+		>>>x
+		'Hello World'
+		>>>x.lower()
+		'hello world'
+		
+		>>>x.split()
+		['Hello','World']
+		
+		>>>x = 'Hi this is a string'
+		>>>x.split()
+		['Hi','this','is','a','string']
+		>>>x.split(i)
+		['H', ' th', 's ', 's a str', 'ng']
+		
+		Strings are not mutable!
+		(you can't use indexing to change individual elements of a string)
+		
+		You can use hashtag# to create comments in our code
+		
 		
